@@ -1,0 +1,117 @@
+name: Job Digest
+
+# Runs every 4 hours (6x/day) and emails a digest of new early-career tech
+# jobs. GitHub Actions cron is ALWAYS in UTC and does NOT observe daylight
+# saving. Denver is UTC-6 (MDT, ~Mar-Nov) or UTC-7 (MST, ~Nov-Mar).
+#
+# The six UTC run times below map to roughly these Denver local times:
+#   01:00 UTC -> 19:00 MDT / 18:00 MST (evening)
+#   05:00 UTC -> 23:00 MDT / 22:00 MST (late night)
+#   09:00 UTC -> 03:00 MDT / 02:00 MST (overnight)
+#   13:00 UTC -> 07:00 MDT / 06:00 MST (morning)
+#   17:00 UTC -> 11:00 MDT / 10:00 MST (midday)
+#   21:00 UTC -> 15:00 MDT / 14:00 MST (afternoon)
+#
+# The "new to you" + seen-history logic means running often never produces
+# duplicates -- each run only emails roles you haven't been shown yet.
+
+on:
+  schedule:
+    - cron: "0 1,5,9,13,17,21 * * *"   # every 4 hours, on the hour (UTC)
+  workflow_dispatch:                    # manual "Run workflow" button
+    inputs:
+      label:
+        description: "Digest label"
+        required: false
+        default: "manual"
+
+permissions:
+  contents: write   # needed to commit updated seen.json back to the repo
+
+concurrency:
+  group: job-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Choose run label
+        id: label
+        run: |
+          if [ -n "${{ github.event.inputs.label }}" ]; then
+            echo "label=${{ github.event.inputs.label }}" >> "$GITHUB_OUTPUT"
+          else
+            # Label by Denver-ish local hour (UTC-6). Good enough for a tag.
+            H=$(( ( $(date -u +%H) + 18 ) % 24 ))   # UTC -> approx MDT
+            if   [ "$H" -lt 11 ]; then echo "label=morning"   >> "$GITHUB_OUTPUT"
+            elif [ "$H" -lt 17 ]; then echo "label=midday"    >> "$GITHUB_OUTPUT"
+            else                        echo "label=evening"   >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      # Refresh the YC board cache weekly (Mondays) or if it's missing, so
+      # daily runs stay fast. Discovery probes hundreds of companies.
+      - name: Refresh YC boards (weekly)
+        run: |
+          DOW=$(date -u +%u)   # 1 = Monday
+          if [ "$DOW" = "1" ] || [ ! -f yc_boards.json ]; then
+            echo "Refreshing YC board cache..."
+            python yc.py --discover --limit 1483
+          else
+            echo "Skipping YC discovery (not Monday, cache present)"
+          fi
+
+      - name: Run digest
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python main.py --label "${{ steps.label.outputs.label }}"
+
+      # Once per day (the 13:00 UTC / morning run), email any due follow-ups
+      # so reminders arrive even on days with no new jobs.
+      - name: Daily follow-ups email
+        if: ${{ github.event_name == 'schedule' }}
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          if [ "$(date -u +%H)" = "13" ]; then
+            python main.py followups --email
+          else
+            echo "Not the daily follow-up slot (13:00 UTC); skipping."
+          fi
+
+      # On a PRIVATE repo we persist the follow-up log too, so it survives
+      # between runs. applications.csv is tracked (not gitignored) for this.
+      - name: Persist state (seen-history + YC cache + applications)
+        run: |
+          CHANGED=""
+          [ -n "$(git status --porcelain seen.json)" ] && CHANGED="seen.json"
+          [ -n "$(git status --porcelain yc_boards.json)" ] && CHANGED="$CHANGED yc_boards.json"
+          [ -n "$(git status --porcelain applications.csv)" ] && CHANGED="$CHANGED applications.csv"
+          if [ -n "$CHANGED" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add $CHANGED
+            git commit -m "chore: update job state [skip ci]"
+            git push
+          else
+            echo "no state changes to commit"
+          fi

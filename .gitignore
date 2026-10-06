@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.DS_Store
+
+# applications.csv is committed on a PRIVATE repo so the follow-up log
+# persists across GitHub Actions runs. If this repo ever becomes public,
+# re-add "applications.csv" here and remove it from git history.
+
+# Still never commit secrets or resume files, even on a private repo:
+config/profile.json
+config/resume*.pdf
