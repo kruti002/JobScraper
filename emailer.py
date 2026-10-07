@@ -76,14 +76,23 @@ def _age_days(job: Job) -> float:
 def _day_bucket(job: Job) -> str:
     d = _age_days(job)
     if d < 1:
-        return "Today (last 24h)"
+        return "Last 24 hours"
     if d < 2:
-        return "Yesterday (24-48h)"
-    return "Earlier"
+        return "1-2 days ago"
+    if d < 3:
+        return "2-3 days ago"
+    if d < 7:
+        return "3-7 days ago"
+    if d == float("inf") or d > 10000:
+        return "Date unknown"
+    return "Over a week ago"
 
 
 # Order buckets fresh -> old regardless of dict insertion.
-_BUCKET_ORDER = ["Today (last 24h)", "Yesterday (24-48h)", "Earlier"]
+_BUCKET_ORDER = [
+    "Last 24 hours", "1-2 days ago", "2-3 days ago",
+    "3-7 days ago", "Over a week ago", "Date unknown",
+]
 
 
 def _sorted_by_freshness(jobs: List[Job]) -> List[Job]:
@@ -104,6 +113,9 @@ def build_html(jobs: List[Job], run_label: str) -> str:
         f"<h2 style=\"margin-bottom:2px;\">Early-Career Tech Jobs &mdash; {html.escape(run_label)}</h2>",
         f"<p style=\"color:#666;margin-top:0;font-size:13px;\">Generated {now} &middot; "
         f"{len(jobs)} new role(s), sorted freshest first</p>",
+        "<p style=\"color:#888;font-size:12px;margin:0 0 10px;\">"
+        "Tip: after reviewing, run <code>python main.py review</code> to mark "
+        "which you applied to (starts the follow-up clock) or skip.</p>",
     ]
 
     for bucket in _BUCKET_ORDER:

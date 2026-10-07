@@ -178,6 +178,71 @@ class ApplicationStore:
         _log(f"import: added {added} new applications from {csv_path}")
         return added
 
+    def import_inbox(self, path: str) -> int:
+        """Import a free-form 'applied today' list. Returns # added.
+
+        Each non-empty, non-comment line can be any of:
+          https://company.com/jobs/123
+          Company - Role
+          Company | Role | https://url
+          Company | Role | https://url | recruiter@co.com
+        Lines starting with # are ignored. After a successful import the file
+        is cleared (so the same lines aren't re-added next run); already-logged
+        duplicates are skipped either way.
+        """
+        if not os.path.exists(path):
+            return 0
+        added = 0
+        with open(path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+        for raw in lines:
+            line = raw.strip()
+            if not line or line.startswith("#"):
+                continue
+            company = role = url = email = ""
+            if "|" in line:
+                parts = [p.strip() for p in line.split("|")]
+                company = parts[0] if len(parts) > 0 else ""
+                role = parts[1] if len(parts) > 1 else ""
+                url = parts[2] if len(parts) > 2 else ""
+                email = parts[3] if len(parts) > 3 else ""
+            elif line.lower().startswith("http"):
+                url = line
+                # derive a readable company from the domain
+                try:
+                    host = line.split("//", 1)[1].split("/", 1)[0]
+                    company = host.replace("www.", "").split(".")[0].title()
+                except IndexError:
+                    company = "Unknown"
+            elif " - " in line:
+                company, _, role = line.partition(" - ")
+                company, role = company.strip(), role.strip()
+            else:
+                company = line  # bare company name
+
+            app = Application(
+                company=company or "Unknown", role=role, url=url,
+                source="applied-inbox",
+                date_applied=date.today().isoformat(),
+                contact_email=email,
+            )
+            if not (app.company or app.url):
+                continue
+            if self.add(app):
+                added += 1
+        # Clear the inbox so processed lines don't re-import; keep a header.
+        try:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write("# Paste jobs you applied to, one per line. Examples:\n"
+                        "#   https://company.com/jobs/123\n"
+                        "#   Stripe - Software Engineer New Grad\n"
+                        "#   Stripe | SWE New Grad | https://... | recruiter@stripe.com\n"
+                        "# This file is auto-cleared after each daily import.\n")
+        except OSError:
+            pass
+        _log(f"inbox import: added {added} new applications from {path}")
+        return added
+
     def due_followups(self, today: Optional[date] = None) -> List[Application]:
         today = today or date.today()
         due = []

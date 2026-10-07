@@ -71,11 +71,17 @@ _Tune in: `GLOBAL_EXCLUDE_TERMS`, `HARDWARE_EXCLUDE_TERMS`, `TARGET_KEYWORDS`._
 
 ### 2a. US citizenship / clearance (`requires_citizenship`)
 
-**Dropped** if the posting explicitly requires US citizenship or an active
-clearance. Matched phrases include: "US citizenship required", "must be a US
-citizen", "citizens only", "active security/secret clearance", "TS/SCI",
-"security clearance required", "ability to obtain a security clearance".
-SimplifyJobs/GitHub rows flagged with the 🇺🇸 marker are also dropped.
+**Dropped** if the posting requires US citizenship, permanent residency, or an
+active/obtainable clearance. Broadened to catch real-world phrasings: "US
+citizenship" (incl. "US citizenship or permanent residency"), "must hold US
+citizenship", "US citizen", "green card holder", "citizens or permanent
+residents", "active security/secret clearance", "TS/SCI", "ability to obtain a
+security clearance", "clearable", "DoD/DOE/public trust clearance", "ITAR",
+"export control", "US persons only". SimplifyJobs/GitHub rows flagged with the
+🇺🇸 marker are also dropped.
+
+> Still kept: "authorized to work in the US", "US-based", and "remote within
+> the US" — those are work authorization / location, not citizenship.
 
 > Note: a role that only says "must be authorized to work in the US" is **kept** —
 > that's work authorization, not citizenship.

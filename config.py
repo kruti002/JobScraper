@@ -63,6 +63,15 @@ EARLY_CAREER_DESC_TERMS = [
     "0-1 years of experience", "0-2 years of experience",
     "minimum 0 years", "recent graduate", "recently graduated",
     "entry-level", "early career", "new graduate",
+    # Softer "junior in spirit" signals: roles that mentor/guide the hire or
+    # scope work for someone early-career. The SENIOR_TITLE_TERMS block still
+    # guards against senior roles leaking in via these.
+    "with guidance from", "guidance from experienced",
+    "support from senior", "with support from experienced",
+    "well-scoped features", "well scoped features",
+    "learning across", "grow into", "mentorship", "paired with a mentor",
+    "suited to someone who enjoys", "early in your career",
+    "first job in", "launch your career", "kickstart your career",
 ]
 
 # Titles containing any of these are treated as senior and dropped, even if
@@ -77,16 +86,30 @@ SENIOR_TITLE_TERMS = [
 
 # --- Domain keywords (title OR description should hit at least one) ----------
 TARGET_KEYWORDS = [
-    "software", "swe", "developer", "backend", "back-end", "back end",
-    "full stack", "fullstack", "full-stack", "frontend", "front-end",
+    # core SWE
+    "software", "swe", "sde", "developer", "programmer", "engineer",
+    "backend", "back-end", "back end", "full stack", "fullstack",
+    "full-stack", "frontend", "front-end", "web developer",
+    # cloud / platform / infra
     "cloud", "aws", "gcp", "azure", "devops", "sre", "site reliability",
-    "platform", "infrastructure", "distributed",
+    "platform", "infrastructure", "distributed", "kubernetes", "docker",
+    "terraform", "systems engineer", "systems software",
+    # data
     "data engineer", "data engineering", "etl", "pipeline", "analytics",
-    "machine learning", "ml engineer", "ai engineer", "mlops",
-    "nlp", "deep learning", "computer vision", "llm", "gen ai", "genai",
-    "python", "java", "c++", "golang", "typescript", "react", "node",
-    "api", "microservice", "systems engineer",
-    "embedded software", "firmware",  # light hardware OK
+    "data platform", "spark", "airflow", "warehouse", "big data",
+    # ML / AI / agentic
+    "machine learning", "ml engineer", "ai engineer", "mlops", "ai/ml",
+    "nlp", "deep learning", "computer vision", "llm", "llms", "gen ai",
+    "genai", "generative ai", "agentic", "ai agent", "agents",
+    "agent engineer", "applied ai", "applied scientist", "research engineer",
+    "foundation model", "rag", "prompt", "fine-tuning", "inference",
+    "reinforcement learning", "ml platform", "ml infrastructure",
+    # languages / frameworks
+    "python", "java", "c++", "golang", "go developer", "rust",
+    "typescript", "javascript", "react", "node", "api", "rest",
+    "graphql", "microservice", "microservices",
+    # light hardware OK
+    "embedded software", "firmware",
 ]
 
 # Titles/descriptions containing these are pure-hardware and get excluded.
@@ -122,7 +145,10 @@ PAST_SEASON_TERMS = [
     "2025", "summer 2025", "fall 2025", "winter 2025", "spring 2025",
     "class of 2025", "2026", "summer 2026", "fall 2026", "spring 2026",
     "winter 2026", "class of 2026", "immediate start", "start immediately",
-    "immediately available", "asap start",
+    "immediately available", "asap start", "immediate new hire",
+    "immediate hire", "immediate opening", "start asap", "start date: asap",
+    "available to start immediately", "immediate availability",
+    "looking to fill immediately", "immediate need",
 ]
 
 # Jobs that REQUIRE US citizenship (or a security clearance that implies it)
@@ -140,6 +166,39 @@ CITIZENSHIP_EXCLUDE_TERMS = [
     "active secret clearance", "active top secret", "ts/sci",
     "security clearance required", "must possess a security clearance",
     "ability to obtain a security clearance",
+    # broader real-world phrasings that were leaking through
+    "us citizenship", "u.s. citizenship",   # covers "US citizenship or PR",
+                                             # "requires US citizenship", etc.
+    "us citizen", "u.s. citizen", "u.s citizen", "usc or green card",
+    "citizen or permanent resident", "citizens or permanent residents",
+    "citizenship or permanent residency", "must hold us citizenship",
+    "must be a united states citizen", "united states citizenship",
+    "green card holder", "clearance eligible", "clearable",
+    "eligible for a security clearance", "obtain a secret clearance",
+    "obtain security clearance", "doe clearance", "dod clearance",
+    "public trust clearance", "itar", "export control",
+]
+
+# Roles that explicitly DON'T sponsor visas or aren't open to F1/J1 students
+# are dropped -- you need sponsorship. These phrases indicate "no sponsorship".
+# We deliberately match the NEGATIVE phrasings so a role that says it DOES
+# sponsor (e.g. "visa sponsorship available") is NOT dropped.
+NO_SPONSORSHIP_EXCLUDE_TERMS = [
+    "not eligible for f1", "not eligible for f-1",
+    "not eligible for j1", "not eligible for j-1",
+    "not available for f1", "not available for j1",
+    "no sponsorship", "not available for any work sponsorship",
+    "not able to sponsor", "unable to sponsor",
+    "will not sponsor", "do not sponsor", "does not sponsor",
+    "cannot provide sponsorship", "can not provide sponsorship",
+    "no visa sponsorship", "without sponsorship",
+    "not provide visa sponsorship", "not offer sponsorship",
+    "not offer visa sponsorship", "sponsorship is not available",
+    "sponsorship not available", "not sponsor applicants",
+    "not sponsor work visas", "not sponsor employment visas",
+    "no immigration sponsorship", "not eligible for sponsorship",
+    "not able to offer sponsorship", "we are unable to sponsor",
+    "this position is not eligible for",
 ]
 
 # --- Location preferences ----------------------------------------------------
@@ -178,12 +237,15 @@ GREENHOUSE_BOARDS = [
     "starburst", "imply", "singlestore", "yugabyte",
     # AI
     "stabilityai",
+    # added from Wellfound-digest companies (pulled directly from their ATS)
+    "idme", "cribl", "nuro", "canonical", "dremio", "ionq",
+    "adyen", "commvault", "medeloop",
 ]
 
 # Lever: company slugs (jobs.lever.co/<slug>).
 LEVER_COMPANIES = [
     "palantir", "mistral", "voleon", "matchgroup",
-    "spotify", "kraken",
+    "spotify", "kraken", "topdesk",
 ]
 
 # Ashby: org slugs (jobs.ashbyhq.com/<slug>).
@@ -202,6 +264,8 @@ ASHBY_COMPANIES = [
     "mintlify", "inngest",
     # AI apps / consumer
     "wispr-flow", "granola", "cluely", "lovable", "bolt",
+    # added from Wellfound-digest companies
+    "forma",
 ]
 
 # USAJobs API keyword search terms (public API; needs free API key).
@@ -325,6 +389,13 @@ RESUME_VARIANTS = {
 # Tie-break order (earlier = preferred when scores tie).
 RESUME_VARIANT_ORDER = ["SWE", "ML", "Cloud", "Data"]
 RESUME_DEFAULT_VARIANT = "SWE"
+
+# --- Per-email volume control ------------------------------------------------
+# After the first big backlog, each 4-hour run only shows roles you haven't
+# seen yet (usually few). This optional cap keeps any single email readable:
+# the top N freshest matches are emailed; the rest are held and roll into the
+# next run (they stay "unseen" until actually emailed). Set to 0 for no cap.
+MAX_JOBS_PER_EMAIL = 60
 # Optional: map a variant to the resume file you'd attach for it.
 RESUME_FILES = {
     "SWE": "config/resume_swe.pdf",

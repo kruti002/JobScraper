@@ -46,8 +46,18 @@ def run_digest(label: str, dry_run: bool, use_seen: bool) -> int:
     fresh.sort(key=filters.freshness_seconds)
     _log(f"final job count: {len(fresh)}")
 
-    # Build the follow-up block (drafts due follow-ups; may auto-send email).
+    # Optional per-email cap: email the top-N freshest; the rest stay unseen
+    # and roll into the next run (so volume spreads across runs/days).
     import config
+    overflow = 0
+    to_email = fresh
+    if config.MAX_JOBS_PER_EMAIL and len(fresh) > config.MAX_JOBS_PER_EMAIL:
+        overflow = len(fresh) - config.MAX_JOBS_PER_EMAIL
+        to_email = fresh[:config.MAX_JOBS_PER_EMAIL]
+        _log(f"capping email at {config.MAX_JOBS_PER_EMAIL}; "
+             f"{overflow} roll to next run")
+
+    # Build the follow-up block (drafts due follow-ups; may auto-send email).
     from applications import ApplicationStore
     import followup
     app_store = ApplicationStore()
@@ -56,17 +66,28 @@ def run_digest(label: str, dry_run: bool, use_seen: bool) -> int:
     if followup_block:
         _log("appended follow-up section to digest")
 
-    if not fresh and not followup_block:
+    if not to_email and not followup_block:
         _log("no new jobs and no follow-ups; nothing to send")
         if store:
             store.save()
         app_store.save()
         return 0
 
-    sent = emailer.send_digest(fresh, run_label=label, extra_section=followup_block)
+    label2 = label if not overflow else f"{label}, +{overflow} queued"
+    sent = emailer.send_digest(to_email, run_label=label2,
+                               extra_section=followup_block)
 
+    # Save the emailed jobs so you can review (applied/skip) them later.
+    if to_email and (sent or dry_run):
+        try:
+            import review_queue
+            review_queue.save_queue(to_email)
+        except Exception as e:
+            _log(f"could not save review queue: {e}")
+
+    # Record ONLY the emailed jobs as seen, so overflow re-appears next run.
     if store and (sent or dry_run):
-        store.record(fresh)
+        store.record(to_email)
     if store:
         store.save()
     app_store.save()
@@ -95,6 +116,15 @@ def run_import(args) -> int:
     n = store.import_csv(args.csv_path)
     store.save()
     print(f"imported {n} new applications")
+    return 0
+
+
+def run_inbox(args) -> int:
+    from applications import ApplicationStore
+    store = ApplicationStore()
+    n = store.import_inbox(args.path or "applied_inbox.txt")
+    store.save()
+    print(f"inbox: logged {n} new applications")
     return 0
 
 
@@ -136,6 +166,10 @@ def main() -> int:
     p_imp = sub.add_parser("import", help="merge a CSV of applications")
     p_imp.add_argument("csv_path")
 
+    p_inbox = sub.add_parser("inbox",
+                             help="log jobs from applied_inbox.txt (free-form)")
+    p_inbox.add_argument("path", nargs="?", default="applied_inbox.txt")
+
     p_fu = sub.add_parser("followups", help="show/send due follow-ups")
     p_fu.add_argument("--send", action="store_true",
                       help="auto-send follow-up emails (only if enabled in config)")
@@ -143,6 +177,7 @@ def main() -> int:
                       help="email the follow-ups reminder digest to yourself")
 
     sub.add_parser("testmail", help="send a test email to verify SMTP creds")
+    sub.add_parser("review", help="mark emailed jobs applied/skip interactively")
 
     args = ap.parse_args()
 
@@ -150,10 +185,15 @@ def main() -> int:
         return run_add(args)
     if args.cmd == "import":
         return run_import(args)
+    if args.cmd == "inbox":
+        return run_inbox(args)
     if args.cmd == "followups":
         return run_followups(args)
     if args.cmd == "testmail":
         return emailer.send_test_email()
+    if args.cmd == "review":
+        import review_queue
+        return review_queue.run_review()
 
     # default: digest
     if args.dry_run:

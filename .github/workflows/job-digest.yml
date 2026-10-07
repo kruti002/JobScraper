@@ -84,8 +84,14 @@ jobs:
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python main.py --label "${{ steps.label.outputs.label }}"
 
-      # Once per day (the 13:00 UTC / morning run), email any due follow-ups
-      # so reminders arrive even on days with no new jobs.
+      # Every run: import anything you pasted into applied_inbox.txt and
+      # committed, logging them to applications.csv (starts the follow-up
+      # clock). The inbox file is auto-cleared after import.
+      - name: Import applied-inbox
+        run: python main.py inbox
+
+      # Once per day (the 13:00 UTC run), email any due follow-ups so reminders
+      # arrive even on days with no new jobs.
       - name: Daily follow-ups email
         if: ${{ github.event_name == 'schedule' }}
         env:
@@ -100,12 +106,12 @@ jobs:
 
       # On a PRIVATE repo we persist the follow-up log too, so it survives
       # between runs. applications.csv is tracked (not gitignored) for this.
-      - name: Persist state (seen-history + YC cache + applications)
+      - name: Persist state (seen-history + YC cache + applications + inbox)
         run: |
           CHANGED=""
-          [ -n "$(git status --porcelain seen.json)" ] && CHANGED="seen.json"
-          [ -n "$(git status --porcelain yc_boards.json)" ] && CHANGED="$CHANGED yc_boards.json"
-          [ -n "$(git status --porcelain applications.csv)" ] && CHANGED="$CHANGED applications.csv"
+          for f in seen.json yc_boards.json applications.csv applied_inbox.txt review_queue.json; do
+            [ -n "$(git status --porcelain $f)" ] && CHANGED="$CHANGED $f"
+          done
           if [ -n "$CHANGED" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"

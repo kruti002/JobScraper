@@ -1,0 +1,623 @@
+[
+  {
+    "company": "Whoop",
+    "role": "iOS Engineer 1",
+    "url": "https://jobs.ashbyhq.com/whoop/f9985943-da11-4cbd-9c44-d2f7e421f65e/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Boston, MA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Whoop",
+    "role": "Software Engineer 1 - Backend",
+    "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Boston, MA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Whoop",
+    "role": "Software Engineer 1 - Frontend - AI Platform",
+    "url": "https://jobs.ashbyhq.com/whoop/b9dc032d-3fd9-4da4-ba2d-175d17bfaf80/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Boston, MA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Whoop",
+    "role": "Android Engineer 1",
+    "url": "https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Boston, MA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Atlassian",
+    "role": "Data Engineer New Grad",
+    "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Seattle, WA",
+    "resume_variant": "Data",
+    "posted": "0d"
+  },
+  {
+    "company": "**Capgemini**",
+    "role": "Full Stack AI Engineer",
+    "url": "https://careers.capgemini.com/job/New-York%2C-NY-Full-Stack-AI-Engineer-NY-10001/1275242401?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-12-12T00:00:00+00:00"
+  },
+  {
+    "company": "**Planbase**",
+    "role": "Founding Engineer (Full-Stack)",
+    "url": "https://www.workatastartup.com/jobs/86588?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA, US",
+    "resume_variant": "SWE",
+    "posted": "2026-12-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Emerge Career**",
+    "role": "Founding Product Engineer",
+    "url": "https://www.workatastartup.com/jobs/79286?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-12-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Yotta Labs**",
+    "role": "Research Engineer - Decentralized AI Systems",
+    "url": "https://jobs.ashbyhq.com/yotta/b5202314-91e1-4940-b8a1-9be0e02d1db5?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-30T00:00:00+00:00"
+  },
+  {
+    "company": "**Thera**",
+    "role": "Founding Engineer",
+    "url": "https://www.workatastartup.com/jobs/86044?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-30T00:00:00+00:00"
+  },
+  {
+    "company": "**Dune**",
+    "role": "Data Engineer",
+    "url": "https://jobs.ashbyhq.com/dune/f3846675-ec16-49df-840d-a428cb421e8c?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "Data",
+    "posted": "2026-11-30T00:00:00+00:00"
+  },
+  {
+    "company": "**Wanderlog (W19)**",
+    "role": "New Grad: Full-Stack Software Engineer",
+    "url": "https://www.workatastartup.com/jobs/85459?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Wanderlog (W19)**",
+    "role": "New Grad: Full-Stack Software Engineer",
+    "url": "https://www.workatastartup.com/jobs/85460?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Stripe**",
+    "role": "Backend Engineer, Secure Endpoint Access",
+    "url": "https://stripe.com/jobs/listing/backend-engineer-secure-endpoint-access/7396672?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "South San Francisco, CA Seattle, WA Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Poka Labs**",
+    "role": "Founding Engineer",
+    "url": "https://www.workatastartup.com/jobs/77829?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-11-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Phonely**",
+    "role": "Forward Deployed Engineer",
+    "url": "https://www.workatastartup.com/jobs/85445?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-11-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Lumenalta**",
+    "role": "Full Stack Engineer",
+    "url": "https://lumenalta.com/jobs/full-stack-engineer-storyblok-expert-full-stack-engineer-storyblok-expert-188?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Databricks**",
+    "role": "AI Tooling Program Engineer",
+    "url": "https://www.databricks.com/company/careers/professional-services-operations/ai-tooling-program-engineer--8295414002?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Northeast, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Amazon**",
+    "role": "Software Engineer I",
+    "url": "https://www.amazon.jobs/en/jobs/3126885/software-engineer-i?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-11-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Shopify**",
+    "role": "Software Engineer",
+    "url": "https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-10T00:00:00+00:00"
+  },
+  {
+    "company": "**Citizen Health**",
+    "role": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA San Mateo, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-11-10T00:00:00+00:00"
+  },
+  {
+    "company": "**Apple**",
+    "role": "AIML Resident - Data Operations Capacity Planning & Analytics",
+    "url": "https://jobs.apple.com/en-us/details/200630794-3337/aiml-resident-data-operations-capacity-planning-analytics?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Seattle, WA Cupertino, CA",
+    "resume_variant": "Data",
+    "posted": "2026-11-10T00:00:00+00:00"
+  },
+  {
+    "company": "**Apple**",
+    "role": "AIML Resident - Knowledge Answer Quality & Richness",
+    "url": "https://jobs.apple.com/en-us/details/200630798-3337/aiml-resident-knowledge-answer-quality-richness?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Seattle, WA Santa Clara, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-11-10T00:00:00+00:00"
+  },
+  {
+    "company": "**Apple**",
+    "role": "AIML Resident - Machine Learning Research",
+    "url": "https://jobs.apple.com/en-us/details/200630783-3337/aiml-resident-machine-learning-research?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Seattle, WA",
+    "resume_variant": "ML",
+    "posted": "2026-11-10T00:00:00+00:00"
+  },
+  {
+    "company": "**AgentMail**",
+    "role": "Founding Engineer",
+    "url": "https://www.workatastartup.com/jobs/84801?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-11-10T00:00:00+00:00"
+  },
+  {
+    "company": "**Warp**",
+    "role": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/warp/jobs/4324888004?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-05T00:00:00+00:00"
+  },
+  {
+    "company": "**Figma**",
+    "role": "Software Engineer, Full Stack",
+    "url": "https://job-boards.greenhouse.io/figma/jobs/5691911004?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-11-05T00:00:00+00:00"
+  },
+  {
+    "company": "**Meta**",
+    "role": "Data Engineer, Analytics",
+    "url": "https://www.metacareers.com/jobs/2578176955882259?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "Data",
+    "posted": "2026-11-01T00:00:00+00:00"
+  },
+  {
+    "company": "**Clipboard Health**",
+    "role": "Software Engineer, Backend",
+    "url": "https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-01T00:00:00+00:00"
+  },
+  {
+    "company": "**Citizen Health**",
+    "role": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA San Mateo, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-11-01T00:00:00+00:00"
+  },
+  {
+    "company": "**Annapurna Labs**",
+    "role": "Silicon & AI Systems Innovation Engineer",
+    "url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Austin, TX Seattle, WA Cupertino, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-10-30T00:00:00+00:00"
+  },
+  {
+    "company": "**Planbase**",
+    "role": "Founding Engineer (Full-Stack)",
+    "url": "https://www.workatastartup.com/jobs/84154?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**Zapier**",
+    "role": "Software Engineer, Backend-leaning Full Stack or Backend",
+    "url": "https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**Wanderlog (W19)**",
+    "role": "New Grad: Full-Stack Software Engineer",
+    "url": "https://www.workatastartup.com/jobs/83760?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**Spot & Tango**",
+    "role": "Jr. Software Engineer",
+    "url": "https://www.spotandtango.com/careers?gh_jid=4620638005&utm_source=vansh&ref=vansh",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**Revionics**",
+    "role": "New Grad: Machine Learning Engineer",
+    "url": "https://revionics.com/about/careers/open-jobs?gh_jid=7172125&utm_source=vansh&ref=vansh",
+    "source": "github-vanshb03",
+    "location": "Austin, TX Atlanta, GA",
+    "resume_variant": "ML",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**Qualtrics**",
+    "role": "Software Engineer I, Digital Experience",
+    "url": "https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628&utm_source=vansh&ref=vansh",
+    "source": "github-vanshb03",
+    "location": "Seattle, WA",
+    "resume_variant": "SWE",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**Liva AI**",
+    "role": "Founding Engineer",
+    "url": "https://www.workatastartup.com/jobs/83655?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**ElevenLabs**",
+    "role": "Growth Engineer - Mobile",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**Docusign**",
+    "role": "Software Engineer",
+    "url": "https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Seattle, WA",
+    "resume_variant": "SWE",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**Claim Health (X25)**",
+    "role": "Founding Engineer",
+    "url": "https://www.workatastartup.com/jobs/83842?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "company": "**Twitch Interactive, Inc.**",
+    "role": "Software Engineer I",
+    "url": "https://amazon.jobs/en/jobs/3111761/software-engineer-i?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Irvine, CA San Francisco, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-10-20T00:00:00+00:00"
+  },
+  {
+    "company": "**Boerboel**",
+    "role": "New Grad: Developer",
+    "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004&utm_source=vansh&ref=vansh",
+    "source": "github-vanshb03",
+    "location": "New York, NY Chicago, IL",
+    "resume_variant": "SWE",
+    "posted": "2026-10-20T00:00:00+00:00"
+  },
+  {
+    "company": "**Shopify**",
+    "role": "Demo Engineer, Software Development",
+    "url": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-18T00:00:00+00:00"
+  },
+  {
+    "company": "**Shopify**",
+    "role": "Software Engineer - Monorepo Systems (Rust & Nix)",
+    "url": "https://www.shopify.com/careers/software-engineer-monorepo-systems-rust-nix_95aac134-c21a-456d-b8b3-a9aac6aa6118?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-16T00:00:00+00:00"
+  },
+  {
+    "company": "**Corgi**",
+    "role": "Full Stack Engineer",
+    "url": "https://www.workatastartup.com/jobs/83025?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Atlanta, GA",
+    "resume_variant": "SWE",
+    "posted": "2026-10-16T00:00:00+00:00"
+  },
+  {
+    "company": "**Tesla**",
+    "role": "Infrastructure & DevOps Engineer, AI Hardware",
+    "url": "https://www.tesla.com/careers/search/job/253222?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Austin, TX Palo Alto, CA",
+    "resume_variant": "Cloud",
+    "posted": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "company": "**Tesla**",
+    "role": "Verification Infrastructure & DevOps Engineer, AI Hardware",
+    "url": "https://www.tesla.com/careers/search/job/253221?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Austin, TX Palo Alto, CA",
+    "resume_variant": "Cloud",
+    "posted": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "company": "**Lambda**",
+    "role": "Cloud Support Engineer I (Support Response)",
+    "url": "https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41?utm_source=vansh",
+    "source": "github-vanshb03",
+    "location": "Remote in USA",
+    "resume_variant": "Cloud",
+    "posted": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "company": "Cadence Solutions",
+    "role": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Remote in USA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Liberty Mutual",
+    "role": "Software Development Co-op",
+    "url": "https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Boston, MA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Khan Academy",
+    "role": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Remote in USA Remote in Canada",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Atlassian",
+    "role": "Data Engineer Intern",
+    "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Seattle, WA",
+    "resume_variant": "Data",
+    "posted": "0d"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Product Test Engineer Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e/apply?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Design Verification Engineer Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Digital Design Engineer Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Mixed Signal Products Applications Engineer Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Validation Engineer Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027/apply?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "affirm",
+    "role": "Software Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+    "source": "greenhouse",
+    "location": "San Francisco, California, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-06T15:58:51-04:00"
+  },
+  {
+    "company": "affirm",
+    "role": "Software Engineer I (New Grad 2027) (SF)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+    "source": "greenhouse",
+    "location": "San Francisco, California, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-06T15:57:18-04:00"
+  },
+  {
+    "company": "True Anomaly",
+    "role": "Software Engineer 1 to 3 - Digital Engineering",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Long Beach, CA Denver, CO",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Whoop",
+    "role": "Software Engineer 1 (Frontend) - AI Platform",
+    "url": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Boston, MA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Software Engineer Intern",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "F5",
+    "role": "Software Development Engineer Intern",
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Seattle, WA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "stripe",
+    "role": "Credit Risk Operations Analyst (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7456167",
+    "source": "greenhouse",
+    "location": "Mexico City",
+    "resume_variant": "ML",
+    "posted": "2026-10-06T19:51:06-04:00"
+  },
+  {
+    "company": "micro1",
+    "role": "Voice Actor/Coaches",
+    "url": "https://himalayas.app/companies/micro1/jobs/voice-actor-coaches",
+    "source": "himalayas",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-06T23:50:17+00:00"
+  },
+  {
+    "company": "Burnett Therapeutic Services",
+    "role": "Human Resources Coordinator",
+    "url": "https://himalayas.app/companies/burnett-therapeutic-services/jobs/human-resources-coordinator",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-06T23:47:49+00:00"
+  },
+  {
+    "company": "affirm",
+    "role": "Software Engineer, Early Career (NYC)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "source": "greenhouse",
+    "location": "New York, New York, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-06T19:17:31-04:00"
+  },
+  {
+    "company": "shortstory",
+    "role": "Sample Coordinator",
+    "url": "https://jobs.ashbyhq.com/shortstory/3a983337-bc24-42a1-b854-b58672672493",
+    "source": "yc-ashby",
+    "location": "San Francisco",
+    "resume_variant": "ML",
+    "posted": "2026-10-06T16:57:53.691000+00:00"
+  }
+]

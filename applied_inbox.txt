@@ -1,0 +1,5 @@
+# Paste jobs you applied to, one per line. Examples:
+#   https://company.com/jobs/123
+#   Stripe - Software Engineer New Grad
+#   Stripe | SWE New Grad | https://... | recruiter@stripe.com
+# This file is auto-cleared after each daily import.

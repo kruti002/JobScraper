@@ -54,6 +54,15 @@ def requires_citizenship(job: Job) -> bool:
     return _any_in(job.haystack(), config.CITIZENSHIP_EXCLUDE_TERMS)
 
 
+def no_sponsorship(job: Job) -> bool:
+    """True if the role explicitly won't sponsor / isn't open to F1/J1.
+
+    Only matches NEGATIVE phrasings, so a role advertising that it DOES
+    sponsor is not dropped.
+    """
+    return _any_in(job.haystack(), config.NO_SPONSORSHIP_EXCLUDE_TERMS)
+
+
 def is_on_topic(job: Job) -> bool:
     hay = job.haystack()
     if _any_in(hay, config.GLOBAL_EXCLUDE_TERMS):
@@ -61,6 +70,8 @@ def is_on_topic(job: Job) -> bool:
     if _any_in(hay, config.HARDWARE_EXCLUDE_TERMS):
         return False
     if requires_citizenship(job):
+        return False
+    if no_sponsorship(job):
         return False
     return _any_in(hay, config.TARGET_KEYWORDS)
 
