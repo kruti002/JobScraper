@@ -5416,5 +5416,50 @@
     "location": "Chantilly, VA, United States",
     "resume_variant": "SWE",
     "posted": "2026-10-08T00:00:00+00:00"
+  },
+  {
+    "company": "Xperteez Technology",
+    "role": "Security Onion Specialist | Remote - Contract",
+    "url": "https://himalayas.app/companies/xperteez-technology/jobs/security-onion-specialist-remote-contract",
+    "source": "himalayas",
+    "location": "Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-10T22:41:45+00:00"
+  },
+  {
+    "company": "GuidePoint Security LLC",
+    "role": "Cloud Infrastructure Intern - GPSU/NE",
+    "url": "https://himalayas.app/companies/guidepoint-security-llc/jobs/cloud-infrastructure-intern-gpsu-ne",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-10-10T22:30:17+00:00"
+  },
+  {
+    "company": "**impact.com**",
+    "role": "**Associate Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Santa Barbara, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-10T00:00:00+00:00"
+  },
+  {
+    "company": "**impact.com**",
+    "role": "**Associate QA Engineer**",
+    "url": "https://jobright.ai/jobs/info/6a7649884817aa4307047b75?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Santa Barbara, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-10T00:00:00+00:00"
+  },
+  {
+    "company": "**impact.com**",
+    "role": "**Full Stack Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6a904c927c32860d14cf8841?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Seattle, WA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-10T00:00:00+00:00"
   }
 ]
