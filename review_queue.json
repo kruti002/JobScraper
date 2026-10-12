@@ -5740,5 +5740,86 @@
     "location": "Cambridge, MA, United States",
     "resume_variant": "SWE",
     "posted": "2026-10-10T00:00:00+00:00"
+  },
+  {
+    "company": "agency",
+    "role": "Video Game Specialist (US) - Freelance AI Trainer Project",
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4788674101",
+    "source": "yc-greenhouse",
+    "location": "United States of America",
+    "resume_variant": "ML",
+    "posted": "2026-10-11T17:23:17-04:00"
+  },
+  {
+    "company": "agency",
+    "role": "Albanian Language Specialist - Freelance AI Trainer Project",
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4786673101",
+    "source": "yc-greenhouse",
+    "location": "World Wide - Remote",
+    "resume_variant": "ML",
+    "posted": "2026-10-11T17:23:16-04:00"
+  },
+  {
+    "company": "agency",
+    "role": "Investment Specialist \u2013 Freelance AI Trainer Project",
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4784904101",
+    "source": "yc-greenhouse",
+    "location": "World Wide - Remote",
+    "resume_variant": "ML",
+    "posted": "2026-10-11T17:23:16-04:00"
+  },
+  {
+    "company": "agency",
+    "role": "Financial Institutions Specialist \u2013 Freelance AI Trainer Project",
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4784903101",
+    "source": "yc-greenhouse",
+    "location": "World Wide - Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-11T17:23:15-04:00"
+  },
+  {
+    "company": "agency",
+    "role": "SWE Infrastructure Specialist (Java) \u2013 Freelance AI Trainer Project",
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4745192101",
+    "source": "yc-greenhouse",
+    "location": "World Wide - Remote",
+    "resume_variant": "Cloud",
+    "posted": "2026-10-11T17:23:14-04:00"
+  },
+  {
+    "company": "agency",
+    "role": "SWE Infrastructure Specialist (JS/TS/Python) \u2013 Freelance AI Trainer Project",
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4745191101",
+    "source": "yc-greenhouse",
+    "location": "World Wide - Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-11T17:23:14-04:00"
+  },
+  {
+    "company": "agency",
+    "role": "Religion Specialist \u2013 Freelance AI Trainer Project",
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4784882101",
+    "source": "yc-greenhouse",
+    "location": "World Wide - Remote",
+    "resume_variant": "ML",
+    "posted": "2026-10-11T17:22:52-04:00"
+  },
+  {
+    "company": "**Palantir Technologies**",
+    "role": "**Software Engineer, New Grad - Production Infrastructure**",
+    "url": "https://jobright.ai/jobs/info/6a5528b4268af95237be9ae7?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Washington, D.C., United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-11T00:00:00+00:00"
+  },
+  {
+    "company": "**BAE Systems, Inc.**",
+    "role": "**Software Engineer, React**",
+    "url": "https://jobright.ai/jobs/info/6aaec3b12e757fcb5c8bbecc?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Nashua, NH, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-10T00:00:00+00:00"
   }
 ]
