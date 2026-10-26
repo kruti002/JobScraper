@@ -17098,5 +17098,50 @@
     "location": "Chicago, IL, United States",
     "resume_variant": "SWE",
     "posted": "2026-10-24T00:00:00+00:00"
+  },
+  {
+    "company": "College Board",
+    "role": "Join College Board\u2019s Software Engineering Talent Community",
+    "url": "https://himalayas.app/companies/college-board/jobs/join-college-board-s-software-engineering-talent-community?utm_source=api",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T05:32:02+00:00"
+  },
+  {
+    "company": "The Doctor",
+    "role": "Patient Coordinator for a unique medical organization",
+    "url": "https://himalayas.app/companies/the-doctor/jobs/patient-coordinator-for-a-unique-medical-organization?utm_source=api",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T05:24:33+00:00"
+  },
+  {
+    "company": "**Healthpeak Properties, Inc.**",
+    "role": "**Forward Deployed Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aded08b065c4e77efaf4e06?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "New York, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Collins Aerospace**",
+    "role": "**Software Engineer Co-Op - Onsite**",
+    "url": "https://jobright.ai/jobs/info/6aa380ca4238ea18d430c0e9?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Cedar Rapids, IA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-24T00:00:00+00:00"
+  },
+  {
+    "company": "greptile",
+    "role": "Product Engineer, Security",
+    "url": "https://jobs.ashbyhq.com/greptile/6e55fc50-514a-47be-bb5a-5e68f2a5f5cf",
+    "source": "yc-ashby",
+    "location": "San Francisco",
+    "resume_variant": "SWE",
+    "posted": "2026-10-21T18:48:04.094000+00:00"
   }
 ]
