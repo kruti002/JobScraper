@@ -17143,5 +17143,284 @@
     "location": "San Francisco",
     "resume_variant": "SWE",
     "posted": "2026-10-21T18:48:04.094000+00:00"
+  },
+  {
+    "company": "PTC",
+    "role": "Software Engineer Intern",
+    "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Boston, MA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Jabil",
+    "role": "Validation Engineer Intern",
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "VXI Global Solutions LLC",
+    "role": "US Virtual - Customer Service Associate (Healthcare)",
+    "url": "https://himalayas.app/companies/vxi-global-solutions-llc/jobs/us-virtual-customer-service-associate-healthcare?utm_source=api",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T15:27:30+00:00"
+  },
+  {
+    "company": "Workday",
+    "role": "Early Careers New Grad - Leadership Development Program",
+    "url": "https://himalayas.app/companies/workday/jobs/early-careers-new-grad-leadership-development-program?utm_source=api",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "Data",
+    "posted": "2026-10-26T15:27:17+00:00"
+  },
+  {
+    "company": "lucis",
+    "role": "Customer Care Specialist",
+    "url": "https://jobs.ashbyhq.com/lucis/826b529f-ca8a-4ac9-bcb1-069c753899af",
+    "source": "yc-ashby",
+    "location": "Paris Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T09:46:07.963000+00:00"
+  },
+  {
+    "company": "**North Carolina Department of Agriculture and Consumer Services**",
+    "role": "**ITPA11 - Application Developer**",
+    "url": "https://jobright.ai/jobs/info/6adf640bc5c64fa3d9cbb193?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Lansing, MI, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Torentify**",
+    "role": "**Software Engineer, Full Stack - Work From Home**",
+    "url": "https://jobright.ai/jobs/info/6adf5d015dc7953215a3e217?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Torentify**",
+    "role": "**Full Stack Engineer - Fully Remote**",
+    "url": "https://jobright.ai/jobs/info/6adf5ac10a4cc7090f97e598?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**L3Harris Technologies**",
+    "role": "**Associate, Software Engineering**",
+    "url": "https://jobright.ai/jobs/info/6adf55ec9a8c91d5c358464b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Rochester, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**CBTS**",
+    "role": "**Software Engineer - Angular - W2 Only, No 3rd Party**",
+    "url": "https://jobright.ai/jobs/info/6adf51b49e3e874dbfbab36f?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Frisco, TX, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Louisiana Economic Development**",
+    "role": "**Associate Application Developer AWS - 2027**",
+    "url": "https://jobright.ai/jobs/info/6adf51009e3e874dbfbab319?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Baton Rouge, LA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Louisiana Economic Development**",
+    "role": "**Associate Application Developer Oracle - 2027**",
+    "url": "https://jobright.ai/jobs/info/6adf50fd5dc7953215a3dd7a?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Baton Rouge, LA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Louisiana Economic Development**",
+    "role": "**Associate Application Developer - Azure and Microsoft - 2027**",
+    "url": "https://jobright.ai/jobs/info/6adf50f50a4cc7090f97e227?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Baton Rouge, LA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Louisiana Economic Development**",
+    "role": "**Associate Application Developer IBM Tech & Red Hat - 2027**",
+    "url": "https://jobright.ai/jobs/info/6adf50ec0a4cc7090f97e224?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Baton Rouge, LA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Adyen**",
+    "role": "**Full-Stack Developer (Junior) - Docs Experience Engineering Team**",
+    "url": "https://jobright.ai/jobs/info/6adf43bbc5c64fa3d9cba3f0?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Chicago, IL, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Capgemini**",
+    "role": "**Firmware Autosar Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adeefce0a4cc7090f97cf01?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Milano, Texas, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**North Carolina Department of Agriculture and Consumer Services**",
+    "role": "**Programmer Analyst 1**",
+    "url": "https://jobright.ai/jobs/info/6adee5c0065c4e77efaf51d2?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Kanawha County, West Virginia, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4bb9e3e874dbfba9ce9?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4ba065c4e77efaf51a1?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4ba5dc7953215a3c6e3?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4b95dc7953215a3c6e2?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4b49a8c91d5c3582e91?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4b39a8c91d5c3582e8e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4b25dc7953215a3c6d8?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4b19e3e874dbfba9cdd?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4b0065c4e77efaf5190?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4ac5dc7953215a3c6cd?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4ab065c4e77efaf5183?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6adee4a40a4cc7090f97cbef?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**RTX**",
+    "role": "**Software Engineer I (Onsite)**",
+    "url": "https://jobright.ai/jobs/info/6adf4c9e065c4e77efaf65e2?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Indianapolis, IN, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Microsoft**",
+    "role": "**Software Engineer - CTJ - Poly**",
+    "url": "https://jobright.ai/jobs/info/6ac07eb7d9621c5b28397e06?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Reston, VA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
   }
 ]
