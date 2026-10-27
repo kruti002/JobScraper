@@ -18259,5 +18259,347 @@
     "location": "El Segundo, CA, United States",
     "resume_variant": "SWE",
     "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "CrossCountry Consulting",
+    "role": "Forward Deployed Software Engineer New Grad",
+    "url": "https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769/apply?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Chicago, IL",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "CrossCountry Consulting",
+    "role": "Forward Deployed Software Engineer New Grad",
+    "url": "https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7/apply?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Chicago, IL",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Visa",
+    "role": "Software Engineer Intern",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Denver, CO",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Visa",
+    "role": "Software Engineer Intern",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Visa",
+    "role": "Software Engineer Intern",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Visa",
+    "role": "Software Engineer Intern",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Visa",
+    "role": "Software Engineer Intern",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Denver, CO",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Visa",
+    "role": "Software Engineer Intern",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "micro1",
+    "role": "Intelligence Analyst",
+    "url": "https://himalayas.app/companies/micro1/jobs/intelligence-analyst?utm_source=api",
+    "source": "himalayas",
+    "location": "Remote",
+    "resume_variant": "ML",
+    "posted": "2026-10-27T13:00:11+00:00"
+  },
+  {
+    "company": "**Rilla**",
+    "role": "New Grad: Software Engineer",
+    "url": "https://go.vansh.nyc/Vn?s=A",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**NUVACORE**",
+    "role": "CPU Design & Verification Engineer",
+    "url": "https://go.vansh.nyc/Vs?s=A",
+    "source": "github-vanshb03",
+    "location": "Austin, TX / Santa Clara, TX /, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**CrossCountry Consulting**",
+    "role": "New Grad: Forward Deployed Software Engineer",
+    "url": "https://go.vansh.nyc/VK?s=A",
+    "source": "github-vanshb03",
+    "location": "Chicago, IL",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**CrossCountry Consulting**",
+    "role": "New Grad: Forward Deployed Software Engineer",
+    "url": "https://go.vansh.nyc/VL?s=A",
+    "source": "github-vanshb03",
+    "location": "Chicago, IL",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**Objective Partners**",
+    "role": "**Software Engineer - C++**",
+    "url": "https://jobright.ai/jobs/info/6ac48831d9621c5b283a1862?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "New York, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**IBM**",
+    "role": "**Application Developer**",
+    "url": "https://jobright.ai/jobs/info/6ac774020e573df8adc72c49?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Armonk, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**FluxCap.**",
+    "role": "**Forward Deployed Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae09c298b6154d50cdf73f8?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "New York, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**Northrop Grumman**",
+    "role": "**2027 Associate Software Engineer / Software Engineer - Colorado Springs CO**",
+    "url": "https://jobright.ai/jobs/info/6ae097400a4cc7090f987d15?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Colorado Springs, CO, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**John Deere**",
+    "role": "**PRODUCT ENGINEER, TESTING**",
+    "url": "https://jobright.ai/jobs/info/6a6a2dcc48355b3f12bef836?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Grovetown, GA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**Siemens**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae0668e5dc7953215a46e03?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Charlotte, NC, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**City and County of San Francisco**",
+    "role": "**Technology Engineer - Associate (1041) - Applications Specialty - Citywide (C00086)**",
+    "url": "https://jobright.ai/jobs/info/6a3c80538bfad862bc99aa16?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-27T00:00:00+00:00"
+  },
+  {
+    "company": "**Eaton**",
+    "role": "**Software Engineer - Early Career - Huntsville, AL**",
+    "url": "https://jobright.ai/jobs/info/6ae04b105dc7953215a46641?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Huntsville, AL, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Arista Networks**",
+    "role": "**Software L1 Test Engineer**",
+    "url": "https://jobright.ai/jobs/info/6a55d66814f1040fa611ce1c?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Santa Clara, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Torentify**",
+    "role": "**Software Engineer - WFH**",
+    "url": "https://jobright.ai/jobs/info/6ae041a10a4cc7090f986699?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**General Dynamics Mission Systems**",
+    "role": "**Software Engineer Entry Level**",
+    "url": "https://jobright.ai/jobs/info/6ae03df10a4cc7090f9864e1?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Bloomington, MN, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae03c569a8c91d5c358c5eb?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae03c569a8c91d5c358c5e9?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae03c53065c4e77efafea5e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae03c529a8c91d5c358c5de?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae03c519e3e874dbfbb3525?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae03c4f9a8c91d5c358c5d6?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae03c4d065c4e77efafea52?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae03c4bc5c64fa3d9cc2baa?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Hyundai America Technical Center, Inc. (HATCI)**",
+    "role": "**Infotainment Engineer I (North America Quality Center - NAQC) Job Details / Hyundai Motor Company**",
+    "url": "https://jobright.ai/jobs/info/6ae02de90a4cc7090f985f2b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Irvine, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**RTX**",
+    "role": "**Embedded Software Engineer I (Onsite)**",
+    "url": "https://jobright.ai/jobs/info/6ae0a0c11f9d9308370a287d?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "McKinney, TX, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**Qumulo**",
+    "role": "**Software Development Engineer (New Grad / Entry Level)**",
+    "url": "https://jobright.ai/jobs/info/6ab3f95464816213f2d963dc?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Seattle, WA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-26T00:00:00+00:00"
+  },
+  {
+    "company": "**General Dynamics Mission Systems**",
+    "role": "**Software Engineer \u2013 Entry Level**",
+    "url": "https://jobright.ai/jobs/info/6ae06e215dc7953215a47007?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Bloomington, MN, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Collins Aerospace**",
+    "role": "**Engineer I, Software Engineer - Test Engineering (Onsite)**",
+    "url": "https://jobright.ai/jobs/info/6ae07c027b815b23fd26cd46?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Cedar Rapids, IA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Boeing**",
+    "role": "**Entry-level Software Engineer\u2013Developers**",
+    "url": "https://jobright.ai/jobs/info/6adfbb390a4cc7090f982847?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "El Segundo, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-25T00:00:00+00:00"
   }
 ]
