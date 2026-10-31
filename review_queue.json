@@ -22552,5 +22552,95 @@
     "location": "United States",
     "resume_variant": "SWE",
     "posted": "2026-10-30T00:00:00+00:00"
+  },
+  {
+    "company": "AN EPIC ADVENTURE",
+    "role": "Remote Adventure Planner",
+    "url": "https://himalayas.app/companies/an-epic-adventure/jobs/remote-adventure-planner?utm_source=api",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-31T18:48:11+00:00"
+  },
+  {
+    "company": "Rovia Clinical Research",
+    "role": "Clinical Research Regulatory Specialist",
+    "url": "https://himalayas.app/companies/rovia-clinical-research/jobs/clinical-research-regulatory-specialist?utm_source=api",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-10-31T18:37:21+00:00"
+  },
+  {
+    "company": "**General Atomics**",
+    "role": "**Software Developer I**",
+    "url": "https://jobright.ai/jobs/info/6ae63264fb2cd420ace602f4?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Poway, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-31T00:00:00+00:00"
+  },
+  {
+    "company": "**General Atomics**",
+    "role": "**Associate Software Developer**",
+    "url": "https://jobright.ai/jobs/info/6a7aaa8fa26ccc369f83f178?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Poway, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-31T00:00:00+00:00"
+  },
+  {
+    "company": "**Boeing**",
+    "role": "**Software Engineer - Simulation - Hybrid - Relocation Assistance Available**",
+    "url": "https://jobright.ai/jobs/info/6ae623edc3139b475b5bc1c5?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Bingen, WA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-31T00:00:00+00:00"
+  },
+  {
+    "company": "**The Swift Group, LLC**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae38c0cc3139b475b5ae0ea?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Hanover, MD, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-31T00:00:00+00:00"
+  },
+  {
+    "company": "**LSEG**",
+    "role": "**Engineering Graduate Programme (Norwell)**",
+    "url": "https://jobright.ai/jobs/info/6ae6174ec3139b475b5bbed6?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Norwell, MA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-31T00:00:00+00:00"
+  },
+  {
+    "company": "**Pocket (YC W26)**",
+    "role": "**Firmware Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae60c32eab1f96730982bc2?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-31T00:00:00+00:00"
+  },
+  {
+    "company": "**NS2 Mission**",
+    "role": "**Java Developer (Junior-Mid level) with Security Clearance**",
+    "url": "https://jobright.ai/jobs/info/6ae60a32d45dc30fb7d38299?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Chantilly, VA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-31T00:00:00+00:00"
+  },
+  {
+    "company": "**Lockheed Martin**",
+    "role": "**Software Engineer Asc - Early Career**",
+    "url": "https://jobright.ai/jobs/info/6ae3e66ceab1f96730977f6d?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Fort Worth, TX, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-10-30T00:00:00+00:00"
   }
 ]
