@@ -26566,5 +26566,545 @@
     "location": "Pleasanton, CA, United States",
     "resume_variant": "SWE",
     "posted": "2026-11-03T00:00:00+00:00"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Developer Engineer 1 - Security Platform",
+    "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Seattle, WA SF Irvine, CA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Twitch",
+    "role": "Software Development Engineer 1 - Security Platform",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Seattle, WA SF Irvine, CA",
+    "resume_variant": "Cloud",
+    "posted": "0d"
+  },
+  {
+    "company": "Twitch",
+    "role": "Software Development Engineer 1 - Security Platform",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Seattle, WA",
+    "resume_variant": "Cloud",
+    "posted": "0d"
+  },
+  {
+    "company": "PayPal",
+    "role": "Software Engineer Intern",
+    "url": "https://paypal.eightfold.ai/careers/job/274922982814?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "5 locations Austin, TX San Jose, CA Chicago, IL Omaha, NE Scottsdale, AZ",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "PayPal",
+    "role": "Mobile Engineer Intern",
+    "url": "https://paypal.eightfold.ai/careers/job/274922982818?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "5 locations Austin, TX San Jose, CA Chicago, IL Omaha, NE Scottsdale, AZ",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "**Cisco**",
+    "role": "Software Engineer Full Stack / Backend I",
+    "url": "https://go.vansh.nyc/1hr?s=A",
+    "source": "github-vanshb03",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "2026-11-05T00:00:00+00:00"
+  },
+  {
+    "company": "**New York Life**",
+    "role": "**Associate - Full Stack Developer Job Details / New York Life Insurance Co**",
+    "url": "https://jobright.ai/jobs/info/6aec41e08d18f1312e927332?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "New York, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-05T00:00:00+00:00"
+  },
+  {
+    "company": "Leidos",
+    "role": "Software Engineering & AI Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Remote in USA Shiloh, IL Odenton, MD",
+    "resume_variant": "SWE",
+    "posted": "1d"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Canada Santa Clara, CA United States",
+    "resume_variant": "ML",
+    "posted": "1d"
+  },
+  {
+    "company": "**TETRAHED INC**",
+    "role": "**Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)**",
+    "url": "https://jobright.ai/jobs/info/6aec2ef055daad9c1f5476bb?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**TETRAHED INC**",
+    "role": "**Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)**",
+    "url": "https://jobright.ai/jobs/info/6aec2ebb80cb7b32eb76ebcd?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Washington, DC, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28e155daad9c1f5475f6?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28df8d18f1312e92702a?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28d780cb7b32eb76eaf0?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28d4fc34fe5680abf6de?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28d480cb7b32eb76eaec?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28ca8d18f1312e92700d?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28ca55daad9c1f5475c9?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28ca55daad9c1f5475cb?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Residential Remodeling**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec28ca80cb7b32eb76eae1?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**Torentify**",
+    "role": "**Web Developer I - 100% Remote**",
+    "url": "https://jobright.ai/jobs/info/6aec219d80cb7b32eb76e6e9?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b4855daad9c1f54712e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b4580cb7b32eb76e601?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b4255daad9c1f547129?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b4080cb7b32eb76e5fb?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b4080cb7b32eb76e5fa?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b3e80cb7b32eb76e5f7?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b3b55daad9c1f54711d?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b398d18f1312e926b19?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b3555daad9c1f54710f?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1b29fc34fe5680abf1df?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**Twitch**",
+    "role": "**Software Dev Engineer I - Security Platform**",
+    "url": "https://jobright.ai/jobs/info/6aebc4e082f0ac077443ce17?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**Twitch**",
+    "role": "**Software Dev Engineer I - Security Platform**",
+    "url": "https://jobright.ai/jobs/info/6aebc4cd765815f7d7463853?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Irvine, CA, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**Twitch**",
+    "role": "**Software Dev Engineer I - Security Platform**",
+    "url": "https://jobright.ai/jobs/info/6aebc4cef40efa43f4a1a7df?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Seattle, WA, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**General Dynamics**",
+    "role": "**Software Engineer \u2013 Entry Level - Top Secret Clearance Required**",
+    "url": "https://jobright.ai/jobs/info/6aec165dfc34fe5680abefae?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Dedham, MA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**Cisco**",
+    "role": "**Software Engineer Full Stack / Backend I (Full Time) - United States**",
+    "url": "https://jobright.ai/jobs/info/6aebedf7e82a94109638f34c?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Austin, TX, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Project Services**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec1314f69ea487dd5d7232?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**Amentum**",
+    "role": "**Software Developer**",
+    "url": "https://jobright.ai/jobs/info/6aebcf7f65311d97105bc151?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Dahlgren, VA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**RTX**",
+    "role": "**Infrastructure Engineer I (Onsite)**",
+    "url": "https://jobright.ai/jobs/info/6aebd6dcf40efa43f4a1b151?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "West Valley City, UT, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Home Improvement**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec0a60f69ea487dd5d70ae?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Home Improvement**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec0a4afc34fe5680abedd8?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Home Improvement**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec0a488d5ff763ff915471?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Home Improvement**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec0a478d5ff763ff91546d?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Home Improvement**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec0a448d18f1312e9266e7?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Home Improvement**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec0a4080cb7b32eb76e147?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Home Improvement**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec0a40f69ea487dd5d707a?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Home Improvement**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aec0a388d5ff763ff91544e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**SpaceX**",
+    "role": "**Software Engineer, Telemetry - Top Secret Clearance (Starlink)**",
+    "url": "https://jobright.ai/jobs/info/6aebdef865311d97105bc783?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Washington, DC, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**RS Global Services**",
+    "role": "**Full Stack Engineer - Onsite - San Francisco, CA**",
+    "url": "https://jobright.ai/jobs/info/6aebe925fbe13dfb53df807e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe5babf2fc41b316e7c7b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe5a0ef3e65925305a453?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe59b65311d97105bc969?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe595765815f7d74645ac?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe592f40efa43f4a1b527?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe590fbe13dfb53df7ee7?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe58bef3e65925305a444?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe583ef3e65925305a436?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe583f40efa43f4a1b50f?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe57c765815f7d746458c?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
+  },
+  {
+    "company": "**A Full Renovation \u2013 Interiors & Design**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6aebe575765815f7d7464580?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-04T00:00:00+00:00"
   }
 ]
