@@ -29581,5 +29581,41 @@
     "location": "Boston, MA, United States",
     "resume_variant": "SWE",
     "posted": "2026-11-06T00:00:00+00:00"
+  },
+  {
+    "company": "Xperteez Technology",
+    "role": "Personal Financial Advisor, Remote",
+    "url": "https://himalayas.app/companies/xperteez-technology/jobs/personal-financial-advisor-remote?utm_source=api",
+    "source": "himalayas",
+    "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+    "resume_variant": "ML",
+    "posted": "2026-11-07T22:54:28+00:00"
+  },
+  {
+    "company": "Salvo Software",
+    "role": "AI Developer",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+    "source": "remoteok",
+    "location": "Remote",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-07T00:00:02+00:00"
+  },
+  {
+    "company": "**General Matter**",
+    "role": "**Software Engineer, New Grad**",
+    "url": "https://jobright.ai/jobs/info/6aefa55e40b5de2d2b311d41?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Los Angeles, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-07T00:00:00+00:00"
+  },
+  {
+    "company": "**JB Mobility**",
+    "role": "**Software Engineer - Korean speaker only**",
+    "url": "https://jobright.ai/jobs/info/6aef81819f8e479a8bcfd947?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Costa Mesa, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-07T00:00:00+00:00"
   }
 ]
