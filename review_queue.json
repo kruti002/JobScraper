@@ -30247,5 +30247,257 @@
     "location": "Buffalo, NY, United States",
     "resume_variant": "SWE",
     "posted": "2026-11-07T00:00:00+00:00"
+  },
+  {
+    "company": "Enova",
+    "role": "Analytics Intern",
+    "url": "https://job-boards.greenhouse.io/enova/jobs/8366036?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Chicago, IL",
+    "resume_variant": "Data",
+    "posted": "0d"
+  },
+  {
+    "company": "**Wolverine Trading**",
+    "role": "New Grad: C++ Software Engineer",
+    "url": "https://go.vansh.nyc/1oT?s=A",
+    "source": "github-vanshb03",
+    "location": "Chicago, IL",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**SeatGeek**",
+    "role": "New Grad 2027: Software Engineer",
+    "url": "https://go.vansh.nyc/1p1?s=A",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Jacobs**",
+    "role": "**Forward Deployed Engineer (Palantir Foundry & Custom Development)**",
+    "url": "https://jobright.ai/jobs/info/6af208c962fb9f5fcd892fe7?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Dallas, TX, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**M&T Bank**",
+    "role": "**Software Engineer - Financial Crimes**",
+    "url": "https://jobright.ai/jobs/info/6af1d5a60cb834dad9320834?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Buffalo, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**PayPal**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae83e99bad9293a40a44c1c?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Jose, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**PayPal**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6ae83e94fb2cd420ace65494?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Jose, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Hardin Design and Development**",
+    "role": "**Web Developer - Entry Level**",
+    "url": "https://jobright.ai/jobs/info/6af1fee3905985ccaa4077d3?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Madison, WI, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**NetApp**",
+    "role": "**Entry Level Software Engineer - ANF (Azure NetApp Files) Job Details / NetApp, Inc.**",
+    "url": "https://jobright.ai/jobs/info/6af1fe478cbcfef4a59d7305?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Jose, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Notion**",
+    "role": "**Software Engineer, Web Infrastructure**",
+    "url": "https://jobright.ai/jobs/info/6af1f8bf905985ccaa407246?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Wolverine Trading**",
+    "role": "**New Grad C++ Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6af1fbfc62fb9f5fcd892741?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Chicago, IL, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Twitch**",
+    "role": "**Software Engineer I, Payments**",
+    "url": "https://jobright.ai/jobs/info/6a7f8148e51a1e18a2413669?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Credence**",
+    "role": "**Junior SAP ABAP Developer**",
+    "url": "https://jobright.ai/jobs/info/6af1e2c91116f6f0a0763333?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "McLean, VA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**CDG Maui, Inc.**",
+    "role": "**Software Developer**",
+    "url": "https://jobright.ai/jobs/info/6af1c55e905985ccaa405d3b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Los Angeles, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**TETRAHED INC**",
+    "role": "**Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)**",
+    "url": "https://jobright.ai/jobs/info/6af1b5c98cbcfef4a59d54c8?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**TETRAHED INC**",
+    "role": "**Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)**",
+    "url": "https://jobright.ai/jobs/info/6af1fa581aaffa49f737f590?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Texas, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**Deloitte**",
+    "role": "**Oracle HCM Cloud Core HR Analyst**",
+    "url": "https://jobright.ai/jobs/info/6af1930874116c3dddb2719b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Stamford, CT, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**dynamism**",
+    "role": "**New Grad Founding Engineer**",
+    "url": "https://jobright.ai/jobs/info/6af18dd574116c3dddb270b6?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-09T00:00:00+00:00"
+  },
+  {
+    "company": "**National Grid**",
+    "role": "**Graduate Development Program, Associate Engineer, Software Engineering**",
+    "url": "https://jobright.ai/jobs/info/6af16c9cc33baf5d5e21633a?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Brooklyn, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**National Grid**",
+    "role": "**Graduate Development Program, Associate Engineer, Software Engineering**",
+    "url": "https://jobright.ai/jobs/info/6af16c9c2a5aac445563fbe4?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Waltham, MA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**National Grid**",
+    "role": "**Graduate Development Program, Associate Technology Engineer, Technology Engineering**",
+    "url": "https://jobright.ai/jobs/info/6af16c96260114b1b45ec997?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Marlborough, MA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**National Grid**",
+    "role": "**Graduate Development Program, Associate Technology Engineer, Technology Engineering**",
+    "url": "https://jobright.ai/jobs/info/6af16b175e16e308a1469c9c?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Waltham, MA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**National Grid**",
+    "role": "**Graduate Development Program, Associate Engineer, Software Engineering**",
+    "url": "https://jobright.ai/jobs/info/6af16b025e16e308a1469c94?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Syracuse, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**Credence**",
+    "role": "**Junior SAP ABAP Developer**",
+    "url": "https://jobright.ai/jobs/info/6af1e2ff62fb9f5fcd8919a4?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "McLean, VA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**Target**",
+    "role": "**Android Engineer - Flagship Mobile App**",
+    "url": "https://jobright.ai/jobs/info/6af1f6770cb834dad9321716?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Brooklyn Park, MN, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**Serco**",
+    "role": "**Junior Software Engineer - Remote**",
+    "url": "https://jobright.ai/jobs/info/6af1da890cb834dad9320aa1?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**National Grid**",
+    "role": "**Graduate Development Program, Associate Engineer, Software Engineering**",
+    "url": "https://jobright.ai/jobs/info/6af1fcb4905985ccaa4075b2?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Brooklyn, New York, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-08T00:00:00+00:00"
+  },
+  {
+    "company": "**Intezra, Inc.**",
+    "role": "**Infrastructure Engineer**",
+    "url": "https://jobright.ai/jobs/info/6af1e1e40cb834dad9320db1?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Columbia, MD, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-08T00:00:00+00:00"
   }
 ]
