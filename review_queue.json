@@ -30157,5 +30157,23 @@
     "location": "Franktown, CO, United States",
     "resume_variant": "SWE",
     "posted": "2026-11-07T00:00:00+00:00"
+  },
+  {
+    "company": "Shield AI",
+    "role": "Engineer 2 New Grad - Multiple Teams",
+    "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Washington, DC",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Shield AI",
+    "role": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "1d"
   }
 ]
