@@ -38239,5 +38239,86 @@
     "location": "Skaneateles, NY, United States",
     "resume_variant": "SWE",
     "posted": "2026-11-19T00:00:00+00:00"
+  },
+  {
+    "company": "Rapid7",
+    "role": "Incident Responder",
+    "url": "https://himalayas.app/companies/rapid7/jobs/incident-responder?utm_source=api",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-21T21:34:32+00:00"
+  },
+  {
+    "company": "**Secureframe**",
+    "role": "New Grad 2027: Software Engineer",
+    "url": "https://go.vansh.nyc/1Gh?s=A",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-11-21T00:00:00+00:00"
+  },
+  {
+    "company": "**Chicago Cubs**",
+    "role": "**Software Engineer, Baseball Systems, Centralized Systems**",
+    "url": "https://jobright.ai/jobs/info/6b01cad20ae14188d58c4b5b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Chicago, IL, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-21T00:00:00+00:00"
+  },
+  {
+    "company": "**Boeing**",
+    "role": "**Associate Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b01dd54a512f514bbde3d91?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Albuquerque, NM, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-21T00:00:00+00:00"
+  },
+  {
+    "company": "**Boeing**",
+    "role": "**Entry-Level Software Engineer\u2013Developer**",
+    "url": "https://jobright.ai/jobs/info/6b00ae293a9a0230ab02988e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Richardson, TX, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-21T00:00:00+00:00"
+  },
+  {
+    "company": "**Boeing**",
+    "role": "**Embedded Software Engineer - Entry-Level**",
+    "url": "https://jobright.ai/jobs/info/6b00ec700ae14188d58c282e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Hazelwood, MO, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-21T00:00:00+00:00"
+  },
+  {
+    "company": "**Secureframe**",
+    "role": "**Software Engineer, New Grad**",
+    "url": "https://jobright.ai/jobs/info/6b01ce550ae14188d58c4bc0?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "New York, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-21T00:00:00+00:00"
+  },
+  {
+    "company": "**Optum**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b018717f6ef85c61a50f63d?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-21T00:00:00+00:00"
+  },
+  {
+    "company": "Compassion International",
+    "role": "Summer Intern - Data and Software Engineering",
+    "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Colorado Springs, CO",
+    "resume_variant": "SWE",
+    "posted": "2d"
   }
 ]
