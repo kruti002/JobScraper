@@ -38428,5 +38428,23 @@
     "location": "United States",
     "resume_variant": "SWE",
     "posted": "3d"
+  },
+  {
+    "company": "AMD",
+    "role": "BIOS Engineering Co-op",
+    "url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "**Birlasoft**",
+    "role": "**Application Developer USA Job Details / Birlasoft Limited**",
+    "url": "https://jobright.ai/jobs/info/6b02adcabf981a045822883b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "New Jersey, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-22T00:00:00+00:00"
   }
 ]
