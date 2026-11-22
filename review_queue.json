@@ -38320,5 +38320,113 @@
     "location": "Colorado Springs, CO",
     "resume_variant": "SWE",
     "posted": "2d"
+  },
+  {
+    "company": "Gradient MSP",
+    "role": "Junior Full Stack Developer",
+    "url": "https://gradientmsp.bamboohr.com/careers/72/?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Remote in Canada",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Affirm",
+    "role": "Software Engineer 1 - Backend - Streaming Infra",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Remote in Canada",
+    "resume_variant": "SWE",
+    "posted": "1d"
+  },
+  {
+    "company": "Affirm",
+    "role": "Software Engineer 1 - Backend - Streaming Infra",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Remote in USA",
+    "resume_variant": "SWE",
+    "posted": "1d"
+  },
+  {
+    "company": "Affirm",
+    "role": "Software Engineer 1 - Fullstack - Disputes Platform",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Remote in Canada",
+    "resume_variant": "SWE",
+    "posted": "1d"
+  },
+  {
+    "company": "Phoenix Defense",
+    "role": "Software Engineer 1",
+    "url": "https://recruiting2.ultipro.com/pho1004phox/JobBoard/acd90700-5979-43ba-b9f1-2d34847188e0/OpportunityDetail?opportunityId=887af972-6506-40d8-a121-db264168ce36&utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "1d"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "role": "Software Engineering New Grad",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "1d"
+  },
+  {
+    "company": "Rise Internet",
+    "role": "Software Engineer 1",
+    "url": "https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1&utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Texas Irving, TX",
+    "resume_variant": "SWE",
+    "posted": "1d"
+  },
+  {
+    "company": "Clover Health",
+    "role": "In-Home Care Admin Coordinator",
+    "url": "https://remoteOK.com/remote-jobs/remote-in-home-care-admin-coordinator-clover-health-1137934",
+    "source": "remoteok",
+    "location": "US Only Remote",
+    "resume_variant": "SWE",
+    "posted": "2026-11-21T03:00:04+00:00"
+  },
+  {
+    "company": "Amazon",
+    "role": "Post-Silicon Systems Validation Engineer 1",
+    "url": "https://amazon.jobs/en/jobs/10502826/post-silicon-systems-validation-engineer-i-annapurna-labs?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "2d"
+  },
+  {
+    "company": "**MiniMed**",
+    "role": "**Software Test Engineer I**",
+    "url": "https://jobright.ai/jobs/info/6b020eb8a950ebd73b60bdbf?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Northridge, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-20T00:00:00+00:00"
+  },
+  {
+    "company": "TransUnion",
+    "role": "Data Science and Analytics Intern",
+    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Chicago, IL",
+    "resume_variant": "Data",
+    "posted": "3d"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Applied Research Scientist Intern - Agentic Biology",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "3d"
   }
 ]
