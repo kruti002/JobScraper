@@ -39688,5 +39688,464 @@
     "location": "Hanover, MD, United States",
     "resume_variant": "SWE",
     "posted": "2026-11-23T00:00:00+00:00"
+  },
+  {
+    "company": "WELLSTAR Technologies",
+    "role": "Junior Software Developer",
+    "url": "https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Remote in Canada",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "WELLSTAR Technologies",
+    "role": "Junior Software Developer",
+    "url": "https://wellhealthtechnologiescorp.applytojob.com/apply/5kq5CE1n76/Junior-Software-Developer?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Remote in Canada",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Veeva Systems",
+    "role": "Software Engineer Intern",
+    "url": "https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Boston, MA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Staples",
+    "role": "Full Stack Software Engineer Intern",
+    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "SambaNova Systems",
+    "role": "DFT Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004&utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX San Jose, CA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "SambaNova Systems",
+    "role": "Physical Design Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004&utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX San Jose, CA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "SambaNova Systems",
+    "role": "Post-Silicon Validation Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004&utm_source=Simplify&ref=Simplify",
+    "source": "github-simplify-intern",
+    "location": "Austin, TX San Jose, CA",
+    "resume_variant": "SWE",
+    "posted": "0d"
+  },
+  {
+    "company": "Netrio",
+    "role": "Cybersecurity Analyst",
+    "url": "https://himalayas.app/companies/netrio/jobs/cybersecurity-analyst?utm_source=api",
+    "source": "himalayas",
+    "location": "United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-26T00:33:49+00:00"
+  },
+  {
+    "company": "Sonos",
+    "role": "Junior Software Development Engineer - Web",
+    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912?utm_source=Simplify&ref=Simplify",
+    "source": "simplify-newgrad",
+    "location": "Boston, MA Seattle, WA",
+    "resume_variant": "SWE",
+    "posted": "1d"
+  },
+  {
+    "company": "**Parallel Web Systems**",
+    "role": "Software Engineer - Developer Experience",
+    "url": "https://go.vansh.nyc/1JH?s=A",
+    "source": "github-vanshb03",
+    "location": "Palo Alto, CA San Francisco, CA New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Eight Sleep**",
+    "role": "New Grad: Engineering",
+    "url": "https://go.vansh.nyc/1Ji?s=A",
+    "source": "github-vanshb03",
+    "location": "New York, NY",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**CodeRabbit**",
+    "role": "New Grad: Software Engineer",
+    "url": "https://go.vansh.nyc/1JS?s=A",
+    "source": "github-vanshb03",
+    "location": "San Francisco, CA",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Ayo Semiconductor**",
+    "role": "Machine Learning Researcher (Master's)",
+    "url": "https://go.vansh.nyc/1JW?s=A",
+    "source": "github-vanshb03",
+    "location": "Boston, MA",
+    "resume_variant": "ML",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Ayo Semiconductor**",
+    "role": "Machine Learning Engineer (Master's)",
+    "url": "https://go.vansh.nyc/1JX?s=A",
+    "source": "github-vanshb03",
+    "location": "Boston, MA",
+    "resume_variant": "ML",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**CodeRabbit**",
+    "role": "**Software Engineer - New Grad**",
+    "url": "https://jobright.ai/jobs/info/6b076c46fbcb892eea5e31f7?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Vestwell**",
+    "role": "**Associate, Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b0735c0fbcb892eea5e15df?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "New York, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Mercury Insurance**",
+    "role": "**Software Engineer I Test**",
+    "url": "https://jobright.ai/jobs/info/6b07669820135524ca72c636?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Texas, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**General Atomics**",
+    "role": "**Software Developer I**",
+    "url": "https://jobright.ai/jobs/info/6b0765d7b624dcc57de79f66?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Poway, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Can-One USA**",
+    "role": "**Assistant Programmer / Assistant ERP Analyst**",
+    "url": "https://jobright.ai/jobs/info/6b07637b6c5083822fdc927b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Nashua, NH, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Faropoint**",
+    "role": "**Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b075cea08b131a5c6579d63?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Hoboken, NJ, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**RFA Engineering**",
+    "role": "**Software Engineer - Test and Validation**",
+    "url": "https://jobright.ai/jobs/info/6b075c70fbcb892eea5e277b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Dubuque, IA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Parallel**",
+    "role": "**Early Career Software Engineer, Developer Experience**",
+    "url": "https://jobright.ai/jobs/info/6b075b0d20135524ca72bf37?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Francisco, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**KiddeFenwal**",
+    "role": "**Embedded Software Engineering Co-Op**",
+    "url": "https://jobright.ai/jobs/info/6b073107b624dcc57de783de?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Ashland, MA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**EarthScope Consortium**",
+    "role": "**Cloud Software Engineer I**",
+    "url": "https://jobright.ai/jobs/info/6b075a332c2b1d2eebe1437a?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Sonos, Inc.**",
+    "role": "**Junior Software Development Engineer, Web**",
+    "url": "https://jobright.ai/jobs/info/6b07487420135524ca72b7b0?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Boston, MA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**DataBank**",
+    "role": "**Jr. Critical Infrastructure Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b0746e1fbcb892eea5e1f3e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Red Oak, TX, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**DataBank**",
+    "role": "**Jr. Critical Infrastructure Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b02c4715cc15ec1b42bf516?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Red Oak, TX, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Edmentum**",
+    "role": "**Software Engineer I**",
+    "url": "https://jobright.ai/jobs/info/6af4d0ba9144106c56a21980?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Bloomington, MN, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**XPENG**",
+    "role": "**Software Engineer - Computing Platform (New Graduate)**",
+    "url": "https://jobright.ai/jobs/info/6b073b3e20135524ca72b1a7?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Santa Clara, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Peraton**",
+    "role": "**RedHat Cloud Engineer (Jr)**",
+    "url": "https://jobright.ai/jobs/info/6b072dadfbcb892eea5e0f96?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Chantilly, VA, United States",
+    "resume_variant": "Cloud",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**BAE Systems**",
+    "role": "**Entry Level Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b071d46b624dcc57de778ed?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Totowa, NJ, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Alutiiq, LLC**",
+    "role": "**Jr Programmer Draftsman**",
+    "url": "https://jobright.ai/jobs/info/6b070e4008b131a5c6577366?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Colorado Springs, CO, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Arcfield**",
+    "role": "**Software Engineer I**",
+    "url": "https://jobright.ai/jobs/info/6b0701a86c5083822fdc5ec1?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Rome, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**dentsu**",
+    "role": "**Messaging Developer**",
+    "url": "https://jobright.ai/jobs/info/6b07315a6c5083822fdc799c?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Colorado, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Baltimore County Public Schools**",
+    "role": "**Enterprise Resource Planning, Business Systems Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b071cfe08b131a5c6577d4b?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Towson, MD, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Lockheed Martin**",
+    "role": "**Software Engineer - Early Career**",
+    "url": "https://jobright.ai/jobs/info/6b05baa22835ccc63ff5427e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Littleton, CO, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Lockheed Martin**",
+    "role": "**Software Engineer - Early Career**",
+    "url": "https://jobright.ai/jobs/info/6b04b89eb4933fb9f4360b55?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "King of Prussia, PA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Lockheed Martin**",
+    "role": "**Software Engineer Asc - E1**",
+    "url": "https://jobright.ai/jobs/info/6b05badf707ad7f350539f75?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Orlando, FL, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Trideum Corporation**",
+    "role": "**Junior Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b070bb12c2b1d2eebe11767?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Fort Belvoir, VA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**L3Harris Technologies**",
+    "role": "**Associate, Software Engineering**",
+    "url": "https://jobright.ai/jobs/info/6b0549b5627709666ef63223?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Clifton, NJ, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Lockheed Martin**",
+    "role": "**Software Engineer (Simulation and Training) - Early Career**",
+    "url": "https://jobright.ai/jobs/info/6b05fd760e7eacd1ea6451d4?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Mount Laurel, NJ, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Lockheed Martin**",
+    "role": "**Software Engineer Asc - Early Career**",
+    "url": "https://jobright.ai/jobs/info/6b05fda20e7eacd1ea64520f?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Orlando, FL, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Lockheed Martin**",
+    "role": "**Software Engineer Associate - Early Career**",
+    "url": "https://jobright.ai/jobs/info/6b05c4122835ccc63ff54b05?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "King of Prussia, PA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**STC, an Arcfield Company**",
+    "role": "**Software Engineer I**",
+    "url": "https://jobright.ai/jobs/info/6b06ff5f2c2b1d2eebe1123f?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Rome, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-25T00:00:00+00:00"
+  },
+  {
+    "company": "**Mille Lacs Corporate Ventures**",
+    "role": "**IT Development Engineer $60,000-$99,000/annually**",
+    "url": "https://jobright.ai/jobs/info/6b076a0d6c5083822fdc978a?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Onamia, Minnesota, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-24T00:00:00+00:00"
+  },
+  {
+    "company": "**RTX**",
+    "role": "**Software Engineer I (Onsite)**",
+    "url": "https://jobright.ai/jobs/info/6b07494fb624dcc57de7920e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Cedar Rapids, IA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-24T00:00:00+00:00"
+  },
+  {
+    "company": "**RTX**",
+    "role": "**Embedded Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b0710b220135524ca729658?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Cedar Rapids, IA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-24T00:00:00+00:00"
+  },
+  {
+    "company": "**Northrop Grumman**",
+    "role": "**2027 Associate Software Quality Engineer - San Diego**",
+    "url": "https://jobright.ai/jobs/info/6b075075b624dcc57de795f3?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "San Diego, CA, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-24T00:00:00+00:00"
+  },
+  {
+    "company": "**M&T Bank**",
+    "role": "**2027 Technology Development Program - Software Engineering (Commercial Application Development)**",
+    "url": "https://jobright.ai/jobs/info/6b074a6820135524ca72b96e?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Buffalo, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-24T00:00:00+00:00"
+  },
+  {
+    "company": "**M&T Bank**",
+    "role": "**2027 Technology Development Program - Software Engineering (Identity & Risk Technology)**",
+    "url": "https://jobright.ai/jobs/info/6b07115db624dcc57de7719a?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Buffalo, NY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-24T00:00:00+00:00"
+  },
+  {
+    "company": "**Humana**",
+    "role": "**Big Data Software Engineer**",
+    "url": "https://jobright.ai/jobs/info/6b0769776c5083822fdc96bf?utm_campaign=Software%20Engineering&utm_source=1103",
+    "source": "github-jobright",
+    "location": "Louisville, KY, United States",
+    "resume_variant": "SWE",
+    "posted": "2026-11-24T00:00:00+00:00"
   }
 ]
